@@ -1,0 +1,1 @@
+# Mac-Users-Python-3.12-venv-pip-and-VS-Code-Jupyter-suddenly-broken-on-macOS-26-
