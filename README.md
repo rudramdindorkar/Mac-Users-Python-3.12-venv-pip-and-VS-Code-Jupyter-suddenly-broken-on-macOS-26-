@@ -1,5 +1,5 @@
 # Mac-Users-Python-3.12-venv-pip-and-VS-Code-Jupyter-suddenly-broken-on-macOS-26-
-# 🍎 Mac Users: Python 3.12 `venv`, `pip` and VS Code Jupyter suddenly broken on macOS 26? Here's what happened.
+
 
 I recently spent around 20 minutes trying to create a simple Python 3.12 virtual environment on my Apple Silicon Mac.
 
